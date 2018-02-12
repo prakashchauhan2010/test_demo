@@ -8,7 +8,7 @@ import org.apache.hadoop.hbase.client.Result;
 import org.apache.hadoop.hbase.util.Bytes;
 
 public class RetriveData{
-
+	// New Comment added for review
    public static void main(String[] args) throws IOException{
    
       // Instantiating Configuration class
